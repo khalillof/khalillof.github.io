@@ -1,3 +1,0 @@
-docker image build ./app  --tag tuban/comming-soon:latest
-
-docker run -d -p 8080:8080 tuban/comming-soon:latest
